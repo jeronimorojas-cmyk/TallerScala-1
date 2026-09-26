@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="TallerScala,TallerScala.main,TallerScala.test,tallerscala-1_358,tallerscala-1_358.main,tallerscala-1_358.test" />
+  </component>
+</project>

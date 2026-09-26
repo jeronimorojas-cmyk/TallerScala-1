@@ -32,4 +32,10 @@ def PeasantAlgorithmIT(a: Int, b: Int): Int = {
  
   resultado
 }
+def splitMultiply(x: Int, y: Int): Int = {
+  }
+}
 
+def fastMultiply(x: Int, y: Int): Int = {
+
+}
